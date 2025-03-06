@@ -64,6 +64,6 @@ This **Juice Ordering System** is a web-based application that allows users to b
 ## License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-You can replace the placeholders (like `yourusername`) with your actual GitHub username or relevant information. This description should give potential users or contributors an understanding of the project and how to set it up. 
+
+
