@@ -1,4 +1,4 @@
- Juice Ordering System
+# Juice Ordering System #
 
 This **Juice Ordering System** is a web-based application that allows users to browse and order a variety of fresh juices online. The system enables customers to easily view available juice products, add them to their cart, and complete the ordering process. The application ensures a seamless, user-friendly experience with features like secure authentication, cart management, and order tracking. The system is designed using modern technologies such as **Java (Spring Boot)** for the backend, **MySQL** for database management, and **HTML, CSS, JavaScript** for the frontend.
 
