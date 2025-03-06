@@ -30,7 +30,7 @@ This **Juice Ordering System** is a web-based application that allows users to b
 ## Setup and Installation:
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/juice-ordering-system.git
+  https://github.com/harini9361/online-juice-shop-ordering-system.git
    ```
 2. Navigate to the project directory:
    ```bash
